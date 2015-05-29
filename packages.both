@@ -26,6 +26,7 @@ ipw2200-fw
 irssi
 lftp
 linux-atm
+linux-headers
 mc
 mtools
 nfs-utils
@@ -59,6 +60,5 @@ wvdial
 xl2tpd
 zd1211-firmware
 linux-firmware
-
-
-
+linux
+os-prober
