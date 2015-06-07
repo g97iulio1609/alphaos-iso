@@ -15,7 +15,6 @@ google-chrome
 lightdm
 lightdm-webkit-theme-antergos
 antergos-wallpapers
-gdm
 geary 
 libreoffice-fresh
 simple-scan
@@ -23,6 +22,9 @@ alphaos-dock
 gnome-shell-extension-status-menu-buttons
 alphaos-default-settings
 alphaos-ux
+alphaos-release
+alphaos-apps-settings
+
 
 # Network
 alphaos-network
@@ -38,6 +40,9 @@ alphaos-system-utils
 
 ##Printer
 alphaos-printer
+
+#Multimedia
+alphaos-multimedia
 
 ##Installer
 calamares

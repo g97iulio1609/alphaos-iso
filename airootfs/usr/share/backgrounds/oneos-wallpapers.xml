@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>color</name>
+    <filename>/usr/share/backgrounds/color.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>baltic-sea</name>
+    <filename>/usr/share/backgrounds/baltic-sea.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>galaxy</name>
+    <filename>/usr/share/backgrounds/galaxy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>mountain</name>
+    <filename>/usr/share/backgrounds/mountain.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>rain</name>
+    <filename>/usr/share/backgrounds/rain.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>wawe</name>
+    <filename>/usr/share/backgrounds/wawe.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>bridge</name>
+    <filename>/usr/share/backgrounds/bridge.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>evening</name>
+    <filename>/usr/share/backgrounds/evening.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+<wallpaper>
+    <name>field</name>
+    <filename>/usr/share/backgrounds/field.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>flower</name>
+    <filename>/usr/share/backgrounds/flower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>hill</name>
+    <filename>/usr/share/backgrounds/hill.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>lake</name>
+    <filename>/usr/share/backgrounds/lake.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>morning</name>
+    <filename>/usr/share/backgrounds/morning.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>mountain-cover</name>
+    <filename>/usr/share/backgrounds/mountain-cover.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>night</name>
+    <filename>/usr/share/backgrounds/night.png</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>night-bridge</name>
+    <filename>/usr/share/backgrounds/night-bridge.png</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>quantal-quetzal</name>
+    <filename>/usr/share/backgrounds/quantal-quetzal.png</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>reflection</name>
+    <filename>/usr/share/backgrounds/reflection.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>rode</name>
+    <filename>/usr/share/backgrounds/rode.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>snow</name>
+    <filename>/usr/share/backgrounds/snow.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  </wallpapers>
